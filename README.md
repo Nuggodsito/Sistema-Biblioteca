@@ -1,7 +1,7 @@
 # Sistema-Biblioteca
 Proyecto Final web, Biblioteca Virtual realizado por: Luis Calderón, Luis Ortega, Octavio Frauca y Arelys Carrión.
 
-# 📚 Sistema de Biblioteca Virtual - Universidad XYZ
+# 📚 Sistema de Biblioteca Virtual - UTP - Proyecto Semestral Ingeniería Web
 
 ## 🎯 Resumen del Proyecto
 Sistema web completo para la gestión de una biblioteca universitaria que permite:
